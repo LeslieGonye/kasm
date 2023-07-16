@@ -38,4 +38,3 @@ sudo bash kasm_release/install.sh
 
 /-/-/-/--------------------------------------------------
 
-curl "https://binaries.twingate.com/connector/setup.sh" | sudo TWINGATE_ACCESS_TOKEN="eyJhbGciOiJFUzI1NiIsImtpZCI6IjZkMExpQkVjVGYzT0UwRkRWWlhJNUljaXhzc1ptNV9sREFsdGRfU0F0RHMiLCJ0eXAiOiJEQVQifQ.eyJudCI6IkFOIiwiYWlkIjoiMTE2OTU2IiwiZGlkIjoiODA0NTI3IiwianRpIjoiMzQ1NDJjZjItNWM4YS00YTU2LTlkNGQtZDI5ZmQ0NTgwYmRjIiwiaXNzIjoidHdpbmdhdGUiLCJhdWQiOiJjeWJlcm9wcyIsImV4cCI6MTY4OTQ0MzUwMiwiaWF0IjoxNjg5NDM5OTAyLCJ2ZXIiOiI0IiwidGlkIjoiNDIyODkiLCJybnciOjE2ODk0NDAyMDIsInJuZXRpZCI6IjUyMjc4In0.TYMqKrr_krYbaR6XfZosOEkVRSynVWnKNn9ZEIbBSYdF8idSwyAmY4ZKH_cffgdHPjKw-RoWIZX6eBhsVBQinQ" TWINGATE_REFRESH_TOKEN="QryIBJTRdnKKaKnSFtvMaAvSiTqMDQgr13jSZN0QbcBvIl83nfv86ktb53JPuPVvSFI05x6aGqzktU9g-BPmYACpsr-4oZAvPnQXwl7lr49lR2486AcFxYQEhTwLcw0nYtEvEw" TWINGATE_NETWORK="cyberops" bash
